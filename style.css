@@ -1,0 +1,106 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+li{
+	list-style: none;
+}
+
+body{
+	background-color: #f7f8f9;
+	margin: 0;
+}
+#header{
+	background-color: #ffffff;
+	
+}
+#main{
+	background-color: #FFFFFF;
+	
+}
+#footer{
+	background-color: #333;
+}
+/* .yellow{
+	background-color: yellow;
+	
+} */
+/* #waitao{
+	width: 1160px;
+	border: 1px solid #333333;
+	margin: 0 auto;
+	
+} */
+.pagew1160{
+	width: 1160px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+#banner{
+	height: 278px;
+	width:auto;
+	
+	/* margin: 0 auto; */
+	background-color: #F7F8F9;
+	background-image: url(phont/tupian.png);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+.section1{
+	/* background-color: navajowhite; */
+	overflow: hidden;
+}
+.left{
+	width:900px;
+	background-color: aqua;
+	float: left;
+}
+.right{
+	width: 240px;
+	background-color: aquamarine;
+	float: right;
+	
+}
+#logo{
+	width: 400px;
+	/* background-color: #7FFFD4; */
+	float: left;
+	
+}
+#nov{
+	width: 500px;
+	/* background-color: blue; */
+	float: left;
+	overflow: hidden;
+}
+#nov li{
+	width: 70px;
+	height: 30px;
+	float: left;
+	overflow: hidden;
+	
+}
+#search{
+	width: 260px;
+	/* background-color: cadetblue; */
+	float: right;
+	
+}
+	
+.wangdian{background-color: antiquewhite;
+
+}
+	
+.wangdian li{background-color: #7FFFD4;
+margin: 0 0 10px 0;
+width: 386px;
+float: left;
+}
+.wd1-picl{
+	width: 130px;
+	float: left;
+}
+.text{
+	width: 250px;
+	float: left;
+}
